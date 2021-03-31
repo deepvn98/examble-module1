@@ -6,4 +6,4 @@ function findMax(){
             max = arr[i];
         }
     } return max
-} alert(findMax())
+} document.write(findMax() + " Là số lớn nhất trong mảng của bạn")
